@@ -28,4 +28,16 @@ google_analytics: UA-77403043-1
 
 
 # needed for travis-ci build
+#exclude: [vendor]
+
+tel: +1 604 5374130
+#//tel_full: tel:+440000000000
+google_maps: 'https://www.google.ca/maps/place/2502-1055+Homer+St,+Vancouver,+V6B+1G3'
+address: 2502-1055 Homer St.
+postcode: V6B 1G3
+city: Vancouver
+country: Canada
+
+
+# needed for travis-ci build
 exclude: [vendor]
