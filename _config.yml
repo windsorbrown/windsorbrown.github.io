@@ -11,7 +11,7 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://username.github.io/
+url: http://about.rahmanzr.com/
 baseurl: /
 title: Zishan Rahman
 author: Zishan Rahman
@@ -19,11 +19,11 @@ description: Personal blog and resume
 avatar: profile.png
 email: rahmanzr@gmail.com
 github: windsorbrown # username
-twitter: usernam
+twitter: rahmanzr78
 linkedin: zishanrahman
-stackoverflow: username   #e.g: users/2735833/proton1h1
+stackoverflow: windsorbrown  #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
-disqus: username
+#disqus: username
 google_analytics: UA-77403043-1
 
 
