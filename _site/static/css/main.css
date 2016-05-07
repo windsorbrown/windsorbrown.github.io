@@ -4,9 +4,20 @@ html,
 body {
   height: 100%;
   background-color: #fff;
-  font-family: 'Source Sans Pro', sans-serif;
+  /*font-family: 'Source Sans Pro', sans-serif;*/
   /* The html and body elements cannot have any padding or margin. */
   border-top: 3px solid #27A822;
+
+
+    font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #444;
+    -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
+    -webkit-text-size-adjust: 100%;
+ }
+
+
+
+
 }
 /* Wrapper for page content to push down footer */
 #wrap {
