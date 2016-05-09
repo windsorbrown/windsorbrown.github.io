@@ -268,6 +268,3 @@
 	.half-bottom { margin-bottom: 10px !important; }
 	.add-bottom { margin-bottom: 20px !important; }
 
-.container-special.column-left{ float: left; width: 33%; }
-.container-special.column-right{ float: right; width: 33%; }
-.container-special.column-center{ display: inline-block; width: 33%; }
